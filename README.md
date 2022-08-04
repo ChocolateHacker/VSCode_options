@@ -22,12 +22,9 @@ Editor: Font Size  => 13
  - [_REST Client_](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
  - [_indent-rainbow_](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
  - [_Git Graph_](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
-- 
 
 3) **Горячие клавиши**  
 Попользовавшись WebStorm нашел некоторые ХотКеи, которые удобнее VSCode'овских и перенес их сюда:
 - CTRL + S => Сохранить все файлы (Удобнее сохранять все файлы сразу, а не прожимать CTRL + SHIFT + S)
 - F4 => Сборка проекта (Run Task) (Выбираем нужный проект и с помощью хоткея быстро начинаем сборку)
-
-4) **Просто полезные настройки**
-
+- ALT + ЛКМ - Установить несколько курсоров
